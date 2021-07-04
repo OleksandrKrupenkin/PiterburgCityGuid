@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866628873751",
+    "project_id": "piterburg-b6e06",
+    "storage_bucket": "piterburg-b6e06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866628873751:android:735d83e34d15b288d63652",
+        "android_client_info": {
+          "package_name": "com.example.piterburgcityguide2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866628873751-7i5kpsecsaofj58hg2vhhv4cm43i7uac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuRN5MBSC9DxXTNx_SsFplQpqOsGOMOtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866628873751-7i5kpsecsaofj58hg2vhhv4cm43i7uac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
